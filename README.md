@@ -11,6 +11,7 @@ New features:
 - change group name (for leaders)
 - turn off notification in settings
 - better sortings in my cards, favourites and group cards
+- click on group tile now shows group cards instead of group members
 
 Bug Fixes:
 - backspace now working on country fields
