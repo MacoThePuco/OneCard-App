@@ -1,5 +1,6 @@
 # OneCard
 To install the app, download and open the APK file
+[Click here to install](https://github.com/MacoThePuco/OneCard-App/raw/refs/heads/main/app-debug.apk)
 
 Compatibility is so far restricted to Android.
 
